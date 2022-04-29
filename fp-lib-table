@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name "FoxyPride")(type "KiCad")(uri "${ALPENGLOWMOD}/Foxy_Pride_PCB/FoxyPride.pretty")(options "")(descr ""))
+)

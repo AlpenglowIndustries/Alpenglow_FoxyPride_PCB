@@ -1168,7 +1168,7 @@
     (property "Reference" "U1" (id 0) (at 88.9 59.69 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Value" "" (id 1) (at 87.63 78.74 0)
+    (property "Value" "TLC555CDR" (id 1) (at 87.63 78.74 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Footprint" "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm" (id 2) (at 109.22 81.28 0)
