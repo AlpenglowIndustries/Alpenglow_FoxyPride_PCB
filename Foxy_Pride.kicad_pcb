@@ -7112,6 +7112,12 @@
     (effects (font (size 1.524 1.524) (thickness 0.2286)) (justify mirror))
   )
 
+  (via (at 60.198 80.518) (size 0.889) (drill 0.381) (layers "F.Cu" "B.Cu") (free) (net 1) (tstamp 34f494d3-f727-4e92-b04b-bb02d398ea06))
+  (via (at 84.074 75.438) (size 0.889) (drill 0.381) (layers "F.Cu" "B.Cu") (free) (net 1) (tstamp 5d0be09d-133e-4cac-b0d8-fd336835cc6c))
+  (via (at 50.038 80.518) (size 0.889) (drill 0.381) (layers "F.Cu" "B.Cu") (free) (net 1) (tstamp 77da69f1-4a7e-4daf-b100-27fb75871e8c))
+  (via (at 77.47 80.518) (size 0.889) (drill 0.381) (layers "F.Cu" "B.Cu") (free) (net 1) (tstamp c36e7618-99ac-4188-82ad-148b9401ee0f))
+  (via (at 40.64 82.296) (size 0.889) (drill 0.381) (layers "F.Cu" "B.Cu") (free) (net 1) (tstamp e2701ea2-e23f-44f2-a20e-c9e74ea88bb1))
+  (via (at 42.418 73.914) (size 0.889) (drill 0.381) (layers "F.Cu" "B.Cu") (free) (net 1) (tstamp e48c2411-8cec-4a56-a964-fc311cc46655))
   (segment (start 70.586 80.824) (end 70.13 81.28) (width 0.254) (layer "B.Cu") (net 2) (tstamp 86ec7b89-254a-41a9-b6a0-d78a115797fe))
   (segment (start 70.586 77.978) (end 70.586 80.824) (width 0.254) (layer "B.Cu") (net 2) (tstamp 9be17d83-c03d-487e-9efa-a76b82585d2d))
   (segment (start 79.756 71.374) (end 79.375 71.755) (width 0.508) (layer "F.Cu") (net 3) (tstamp 068af186-6845-4c8f-866a-6825f50380e0))
