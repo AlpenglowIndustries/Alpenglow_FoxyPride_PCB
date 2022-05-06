@@ -4316,7 +4316,7 @@
 
   (footprint "Alpenglow:SO-16" (layer "B.Cu")
     (tedit 626C6BA3) (tstamp 311bd2d3-5803-412d-ac98-e52fb8d3e649)
-    (at 42.2365 73.1945)
+    (at 42.236492 73.194494)
     (descr "SOIC, 16 Pin (JEDEC MS-012AC, https://www.analog.com/media/en/package-pcb-resources/package/pkg_pdf/soic_narrow-r/r_16.pdf), generated with kicad-footprint-generator ipc_gullwing_generator.py")
     (tags "SOIC SO")
     (property "Sheetfile" "Foxy_Pride.kicad_sch")
