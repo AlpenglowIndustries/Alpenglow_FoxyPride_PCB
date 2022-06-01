@@ -1068,7 +1068,7 @@
     (effects (font (size 2 2) italic) (justify left bottom))
     (uuid efa0e02d-4d34-4d35-a2f9-27c20b0efb8c)
   )
-  (text "Resistors and LEDs should be matched for even brightness.\nRED, ORG, YEL, GRN: 47 ohms\nWHT, CYN, PNK: 10 ohms\nBLU: 0 ohms\n(estimated values, waiting for parts to confirm)"
+  (text "Resistors and LEDs should be matched for even brightness.\nWHT, CYN, PNK, RED, YEL, ORNG, GRN: 1k ohms\nBLU, PURP: 470 ohms\n(values based off of 2 CR2016 batteries)"
     (at 163.83 123.19 0)
     (effects (font (size 2 2) italic) (justify left bottom))
     (uuid f9b20c1b-3138-471f-bc10-fba0da4e35bf)
