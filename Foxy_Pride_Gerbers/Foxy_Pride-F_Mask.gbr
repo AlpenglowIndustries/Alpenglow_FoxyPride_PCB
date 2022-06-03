@@ -1,12 +1,12 @@
-%TF.GenerationSoftware,KiCad,Pcbnew,(6.0.1)*%
-%TF.CreationDate,2022-05-04T14:42:35-07:00*%
+%TF.GenerationSoftware,KiCad,Pcbnew,(6.0.4)*%
+%TF.CreationDate,2022-06-03T16:22:06-07:00*%
 %TF.ProjectId,Foxy_Pride,466f7879-5f50-4726-9964-652e6b696361,rev?*%
 %TF.SameCoordinates,Original*%
 %TF.FileFunction,Soldermask,Top*%
 %TF.FilePolarity,Negative*%
 %FSLAX46Y46*%
 G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
-G04 Created by KiCad (PCBNEW (6.0.1)) date 2022-05-04 14:42:35*
+G04 Created by KiCad (PCBNEW (6.0.4)) date 2022-06-03 16:22:06*
 %MOMM*%
 %LPD*%
 G01*

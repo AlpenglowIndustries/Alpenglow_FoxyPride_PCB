@@ -3,9 +3,9 @@
     "GenerationSoftware": {
       "Vendor": "KiCad",
       "Application": "Pcbnew",
-      "Version": "(6.0.1)"
+      "Version": "(6.0.4)"
     },
-    "CreationDate": "2022-05-04T14:42:35-07:00"
+    "CreationDate": "2022-06-03T16:22:06-07:00"
   },
   "GeneralSpecs": {
     "ProjectId": {
@@ -41,6 +41,16 @@
     {
       "Path": "Foxy_Pride-B_Cu.gbr",
       "FileFunction": "Copper,L2,Bot",
+      "FilePolarity": "Positive"
+    },
+    {
+      "Path": "Foxy_Pride-F_Paste.gbr",
+      "FileFunction": "SolderPaste,Top",
+      "FilePolarity": "Positive"
+    },
+    {
+      "Path": "Foxy_Pride-B_Paste.gbr",
+      "FileFunction": "SolderPaste,Bot",
       "FilePolarity": "Positive"
     },
     {
